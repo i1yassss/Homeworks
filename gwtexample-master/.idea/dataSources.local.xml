@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="database" uuid="994d6fc7-195c-4b08-99f0-8106ba7d6462">
+      <user-name>root</user-name>
+      <user-password>dfd8dfc5dfc5dfde</user-password>
+      <schema-pattern>gwt-test.*</schema-pattern>
+      <default-schemas>gwt-test.*</default-schemas>
+    </data-source>
+  </component>
+</project>
